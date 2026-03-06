@@ -1,4 +1,4 @@
-# 🚖 SmartCab – Mini Cab Booking System (Core Java Project)
+# 🚖 SmartCab – (Core Java Project)
 
 ### 🔍What is SmartCab?
 #####  •It works similar to a simplified Uber system, where:
@@ -11,3 +11,15 @@
      multithreading, and  collections framework.
 
 ### 🛠️ Tech Stack
+
+  #### Language
+           • ⚡ Core Java
+   ###### Core Java Concepts Used:
+              •  OOP Concepts
+              •  Collections Framework
+              •  Multithreading
+              •  Exception Handling
+              •  Java Utility Classes
+              
+              
+              
