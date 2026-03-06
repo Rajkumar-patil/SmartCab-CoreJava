@@ -7,7 +7,7 @@
 
 ##### •⚡ The system handles multiple bookings simultaneously using Multithreading.
 
-     •This project was developed to strengthen my Core Java foundation, focusing on OOP concepts,
+##### •This project was developed to strengthen my Core Java foundation, focusing on OOP concepts,
      multithreading, and  collections framework.
 
 ### 🛠️ Tech Stack
