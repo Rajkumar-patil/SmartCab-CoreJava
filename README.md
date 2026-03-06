@@ -1,9 +1,10 @@
-🎓 SmartCab – Your Mini Uber System 🚖✨
+# 🚖 SmartCab – Mini Cab Booking System (Core Java Project)
 
- Car Owners can add their cars for rent.
+### 🔍 What is SmartCab?
+    •It works similar to a simplified Uber system, where:
+      - 🚗 Car Owners can add their cars for rent.
+      - 🧳 Travelers/Users can view available cars and book rides.
 
- Travelers/Users can book available cars.
+    •⚡ The system handles multiple bookings simultaneously using Multithreading.
 
- System handles multiple bookings safely using multithreading, ensuring real-time availability and smooth operations.
-
- SmartCab is a console-based system built on strong Core Java foundations, covering OOP concepts, multithreading, and collections.
+     •This project was developed to strengthen my Core Java foundation, focusing on OOP concepts, multithreading, and  collections framework.
